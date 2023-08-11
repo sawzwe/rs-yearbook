@@ -1,1 +1,1 @@
-# rs-yearbook
+# a small nextjs program
